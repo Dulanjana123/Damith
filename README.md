@@ -1,4 +1,4 @@
-# Dulanjana Dissanayaka
+# Damith
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=87CEEB&center=true&vCenter=true&width=400&lines=Full++Stack++Software++Engineer)](https://git.io/typing-svg)
@@ -17,7 +17,7 @@
 
 ```json
  {
-  "name": "Dulanjana Dissanayaka",
+  "name": "Damith",
   "role": "Full Stack Developer",
   "skills": ["C#", ".NET Core", "TypeScript", "Angular", "React", "SQL Server", "Azure", "Docker"],
   "hobbies": ["Learning new technologies", "Open-source contributions", "Problem-solving"],
